@@ -1,0 +1,102 @@
+{
+    "p001": {
+      "name": "Rahul Sharma",
+      "city": "Indore",
+      "age": 24,
+      "gender": "Male",
+      "height": 175,
+      "weight": 68,
+      "bmi": 22.2,
+      "verdict": "Normal"
+    },
+    "p002": {
+      "name": "Priya Verma",
+      "city": "Bhopal",
+      "age": 29,
+      "gender": "Female",
+      "height": 160,
+      "weight": 72,
+      "bmi": 28.1,
+      "verdict": "Overweight"
+    },
+    "p003": {
+      "name": "Amit Patel",
+      "city": "Ujjain",
+      "age": 41,
+      "gender": "Male",
+      "height": 170,
+      "weight": 92,
+      "bmi": 31.8,
+      "verdict": "Obese"
+    },
+    "p004": {
+      "name": "Neha Joshi",
+      "city": "Indore",
+      "age": 22,
+      "gender": "Female",
+      "height": 158,
+      "weight": 44,
+      "bmi": 17.6,
+      "verdict": "Underweight"
+    },
+    "p005": {
+      "name": "Vikram Singh",
+      "city": "Jaipur",
+      "age": 35,
+      "gender": "Male",
+      "height": 180,
+      "weight": 85,
+      "bmi": 26.2,
+      "verdict": "Overweight"
+    },
+    "p006": {
+      "name": "Sneha Gupta",
+      "city": "Gwalior",
+      "age": 52,
+      "gender": "Female",
+      "height": 155,
+      "weight": 78,
+      "bmi": 32.5,
+      "verdict": "Obese"
+    },
+    "p007": {
+      "name": "Rohan Mehta",
+      "city": "Mumbai",
+      "age": 31,
+      "gender": "Male",
+      "height": 172,
+      "weight": 70,
+      "bmi": 23.7,
+      "verdict": "Normal"
+    },
+    "p008": {
+      "name": "Anjali Yadav",
+      "city": "Delhi",
+      "age": 27,
+      "gender": "Female",
+      "height": 165,
+      "weight": 58,
+      "bmi": 21.3,
+      "verdict": "Normal"
+    },
+    "p009": {
+      "name": "Suresh Chouhan",
+      "city": "Dewas",
+      "age": 58,
+      "gender": "Male",
+      "height": 168,
+      "weight": 104,
+      "bmi": 36.8,
+      "verdict": "Obese"
+    },
+    "p010": {
+      "name": "Kavya Nair",
+      "city": "Pune",
+      "age": 19,
+      "gender": "Female",
+      "height": 162,
+      "weight": 49,
+      "bmi": 18.7,
+      "verdict": "Normal"
+    }
+  }
